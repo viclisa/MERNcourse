@@ -1,5 +1,3 @@
-// se puede usar lodash
-
 const isEmpty = value =>
   value === undefined ||
   value === null ||
